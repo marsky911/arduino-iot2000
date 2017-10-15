@@ -1,4 +1,4 @@
-# Simatic IOT2000 arduino library
+# Simatic IOT2000 board support and arduino libraries
 
 ## Installation
 
