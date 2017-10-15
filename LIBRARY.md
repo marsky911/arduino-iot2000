@@ -1,6 +1,6 @@
 # Simatic IOT2000 arduino library
 
-## Addition to standart arduino library:
+## Addition to standard arduino library:
 
 Serial Ports:
 
