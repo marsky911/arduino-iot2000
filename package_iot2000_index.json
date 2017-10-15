@@ -15,8 +15,8 @@
           },
           "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/Versions/iot2000_1.0.0.zip",
           "archiveFileName": "iot2000_1.0.0.zip",
-          "checksum": "SHA-256:8643bdfa59544187e92e409ebbe5e48dd3e782e49c493c8a460b260f877fae19",
-          "size": "416339",
+          "checksum": "SHA-256:703fc696b1cf17e6128db6355771eea90d3f0af8bef4029c752d7f95129e64a3",
+          "size": "423509",
           "boards": [
             { "name": "Simatic IOT2000" }
           ],
