@@ -37,7 +37,7 @@ Ethernet Ports:
 
 * ***Ethernet (X1) and Ethernet1 (X2)***
 
-	see Ethernet libray example
+	see ***Ethernet*** libray example
 
 User Led:
 
