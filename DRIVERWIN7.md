@@ -5,7 +5,7 @@
 1. Open Device Manager
 1. In Other devices you see ***CDC Serial*** or ***Unknown device***
 1. Right click and select ***Update Driver Software...***
-1. Select **Browse my computer for driver software***
+1. Select ***Browse my computer for driver software***
 1. Select ***Let me pick from a list of device drivers on my computer***
 1. Press ***Next*** Button
 1. Press ***Have Disk...*** Button
