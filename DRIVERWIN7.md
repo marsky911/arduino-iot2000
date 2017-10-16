@@ -1,4 +1,4 @@
-#Install Win7 usb dirver for IOT2000
+##Install Win7 usb driver for IOT2000
 
 1. Copy driver filese from folder ***usb_driver***
 1. Plug micro usb cable on IOT2000 and PC
