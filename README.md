@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/sblyolcubal/arduino-iot2000/master/package_iot
 1. Select ***Simatic IOT2000 Devices by Siemens AG version x.x.x***
 1. Press **Install** button
 1. Plug IOT2000 on usb port (use micro usb on IOT2000)
-1. Install driver from folder ***usb_driver*** (only for Windows 7)
+1. [Install driver](DRIVERWIN7.md)  from folder ***usb_driver*** (only for Windows 7)
 1. Select IOT2000 device
 1. Select Port
 
