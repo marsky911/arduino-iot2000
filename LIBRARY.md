@@ -16,7 +16,7 @@ Serial Ports:
 	Serial3.begin(<baudrate>, "rs422");
 	Serial4.begin(<baudrate>, "rs422");
 ```
-***RS422:***
+***RS485:***
 ``` c++	
 	Serial3.begin(<baudrate>, "rs485");
 	Serial4.begin(<baudrate>, "rs485");
@@ -35,7 +35,7 @@ Serial Ports:
 
 Ethernet Ports:
 
-Configure Network Interfaces with tool ***iot2000setup*** (enter on commandline).
+Configure Network Interfaces with tool ***iot2000setup*** (enter on command line).
 
 * ***Ethernet (X1) and Ethernet1 (X2)***
 
