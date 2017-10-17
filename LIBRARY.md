@@ -35,7 +35,7 @@ Serial Ports:
 
 Ethernet Ports:
 
-Configure Network Interfaces with tool ***iot2000setup*** enter on commandline.
+Configure Network Interfaces with tool ***iot2000setup*** (enter on commandline).
 
 * ***Ethernet (X1) and Ethernet1 (X2)***
 
