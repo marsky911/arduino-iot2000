@@ -8,15 +8,15 @@
         {
           "name": "Simatic IOT2000 Devices",
           "architecture": "iot2000",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "help": {
             "online": "https://support.industry.siemens.com/tf/ww/en/conf/60/"
           },
-          "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/Versions/iot2000_1.0.0.zip",
-          "archiveFileName": "iot2000_1.0.0.zip",
-          "checksum": "SHA-256:703fc696b1cf17e6128db6355771eea90d3f0af8bef4029c752d7f95129e64a3",
-          "size": "423509",
+          "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/Versions/iot2000_1.0.1.zip",
+          "archiveFileName": "iot2000_1.0.1.zip",
+          "checksum": "SHA-256:0fa5c0cb72dff7a472198f489babbd8c6959d445d0007181f97f26bfd0f3ca20",
+          "size": "423626",
           "boards": [
             { "name": "Simatic IOT2000" },
             { "name": "Simatic IOT2000 Net" }
@@ -83,8 +83,8 @@
               "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-osx.tar.gz"
             },
             {
-              "size": "2534586",
-              "checksum": "SHA-256:c32d1ae4cde190242eef95122d20dbcb5da226e7de6c567079a1c8c292267ae5",
+              "size": "3141735",
+              "checksum": "SHA-256:27c7f3bb0f280cae8ab89acd887ec497c66b21afe28a4e42cfc5ce4f59e24605",
               "host": "i686-mingw32",
               "archiveFileName": "intel-arduino-tools-20150316-windows.zip",
               "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-windows.zip"
