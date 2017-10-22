@@ -19,7 +19,7 @@
           "size": "423509",
           "boards": [
             { "name": "Simatic IOT2000" },
-            { "name": "Simatic IOT2000 Net" },
+            { "name": "Simatic IOT2000 Net" }
           ],
           "toolsDependencies": [
             {
