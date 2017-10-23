@@ -13,14 +13,14 @@ https://raw.githubusercontent.com/sblyolcubal/arduino-iot2000/master/package_iot
 1. Select ***Simatic IOT2000 Devices by Siemens AG version x.x.x***
 1. Press **Install** button
 
-For transfer sketch over USB:
+***For transfer sketch over USB:***
 1. Plug IOT2000 on usb port (use micro usb on IOT2000)
 1. [Install driver](DRIVERWIN7.md)  from folder ***usb_driver*** (only for Windows 7)
 1. Select ****Simatic IOT2000*** device
 1. Select Port
 1. Upload sketch
 
-For transfer sketch over LAN (works only on Windows now):
+***For transfer sketch over LAN (works only on Windows now):***
 
 ***IOT2000 must have IP 192.168.200.1 user root and no password and connected over LAN with PC***
 1. Select ***Simatic IOT2000 Net*** device
