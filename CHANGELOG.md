@@ -2,9 +2,9 @@ Changelog
 =========
 **1.0.1**
 
-* ***Device Simatic IOT2000 Net for transfer sketch over LAN***
-
 Added:
+
+* ***Device Simatic IOT2000 Net for transfer sketch over LAN***
 
 **1.0.0**
 
