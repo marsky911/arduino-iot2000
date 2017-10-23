@@ -20,9 +20,9 @@ For transfer sketch over USB:
 1. Select Port
 1. Upload sketch
 
-For transfer sketch over LAN:
+For transfer sketch over LAN (works only on Windows now):
 
-***IOT2000 must have IP 192.168.200.1 user root and no password***
+***IOT2000 must have IP 192.168.200.1 user root and no password and connected over LAN with PC***
 1. Select ***Simatic IOT2000 Net*** device
 1. Upload sketch
 
