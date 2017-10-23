@@ -9,7 +9,7 @@
 https://raw.githubusercontent.com/sblyolcubal/arduino-iot2000/master/package_iot2000_index.json
 1. Close Preferences
 1. In Arduino IDE select ***Tools->Board xx->Boards Manager..***
-1. Select Type: **Contributed**
+1. Select Type: ***Contributed***
 1. Select ***Simatic IOT2000 Devices by Siemens AG version x.x.x***
 1. Press **Install** button
 
